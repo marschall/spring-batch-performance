@@ -211,7 +211,7 @@
   <properties>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
-    <spring.batch.version>4.1.1.RELEASE</spring.batch.version>
+    <spring.batch.version>4.2.3.RELEASE</spring.batch.version>
     <spring.version>5.1.4.RELEASE</spring.version>
   </properties>
 
